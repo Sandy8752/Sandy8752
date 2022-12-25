@@ -1,6 +1,6 @@
 
 <!--
-**SANTHOSH KUMAR/SANTHOSH KUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sandy8752/Sandy8752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
  [![MasterHead](https://miro.medium.com/max/900/0*UqGyYmWCRQnjLzSk.jpg)](https:/Sandy8752.io)
