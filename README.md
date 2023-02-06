@@ -3,7 +3,7 @@
 **Sandy8752/Sandy8752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
- [![MasterHead](https://i.morioh.com/bb436ff064.png)](https:/Sandy8752.io)
+ [![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/107688670/original/7ce92b3c60643b6e07c3f2a4f37f7fc8446616f6/create-a-full-stack-mobile-responsive-web-app-using-mern.png)](https:/Sandy8752.io)
  <h1 align="center">Hi 👋, I'm SANTHOSH KUMAR K</h1>
 <h3 align="center">I skilled at MERN full stack to build a responsive web application. And I'm seeking a beginner role to enhance and explore my technical knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
