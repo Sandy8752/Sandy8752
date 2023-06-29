@@ -29,7 +29,7 @@
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandy8752&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=bluewhite"show_icons=true&locale=en&layout=compact"alt="Sandy8752"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandy8752&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=blue"show_icons=true&locale=en&layout=compact"alt="Sandy8752"/>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandy8752&show_icons=true&locale=en"alt="Sandy8752" /></p>
 
