@@ -8,7 +8,7 @@
 <h3 align="center">I skilled at MERN full stack to build a responsive web application. And I'm seeking a beginner role to enhance and explore my technical knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sandy8752&label=Profile%20views&color=0e75b6&style=flat" alt="Sandy8752" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandy8752" alt="Sandy8752" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **santhoshmech626@gmail.com**
 - 📄 Know about my experiences https://drive.google.com/file/d/1iU26QJF21VLAsLcXLwGd_6_vDbPK2240/view?usp=sharing
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandy8752" alt="Sandy8752" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/santhosh-kumar-940381253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santhosh-kumar-940381253/" height="30" width="40" /></a>
