@@ -8,6 +8,7 @@
 <h3 align="center">I skilled at MERN full stack to build a responsive web application. And I'm seeking a beginner role to enhance and explore my technical knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sandy8752&label=Profile%20views&color=0e75b6&style=flat" alt="Sandy8752" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandy8752" alt="Sandy8752" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
